@@ -13,7 +13,7 @@ maxima = round(fechamento.max(), 2)
 minima = round(fechamento.min(), 2)
 valor_medio = round(fechamento.mean(), 2)
 
-destinatario = "otavio.b.c@hotmail.com"
+destinatario = "__________@hotmail.com"
 assunto = "Análises do projeto 2020"
 
 mensagem = f"""
